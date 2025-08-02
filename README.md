@@ -1,4 +1,5 @@
 100-Days-of-Code: The Complete Python Pro Bootcamp
+
 Welcome to my journey through the "100 Days of Code - The Complete Python Pro Bootcamp".
 
 This repository is dedicated to my progress in this comprehensive Python course. Over the next 100 days, I am committing to spending at least one hour a day to build a new project and master Python programming.
