@@ -1,0 +1,11 @@
+Bootstrap_Flask==2.2.0
+Flask_CKEditor==0.4.6
+WTForms==3.0.1
+Flask_WTF==1.2.1
+Werkzeug==3.0.0
+Flask==2.3.2
+flask_sqlalchemy==3.1.1
+SQLAlchemy==2.0.25
+
+
+https://www.stratascratch.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Foaglaatp%2Fproduction%2F04ee52fc7faad5e56e16aa7595be5faa570cdd73-1200x800.png%3Fw%3D1392&w=1920&q=75
